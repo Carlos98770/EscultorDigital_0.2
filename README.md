@@ -1,1 +1,2 @@
-#Escultor Digital versão 0.2
+# EscultorDigital_0.2
+Versão 0.2 do Escultor Digital
